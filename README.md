@@ -1,4 +1,4 @@
-# Machine Learning Workbook
+# Machine Learning Notebook
 
 Personal practice repository for the Machine Learning course
 on Coursera taught by Prof. Andrew Ng.
